@@ -1,27 +1,93 @@
-# Hi, I'm Geert 👋
+<div align="center">
 
-Chief technologist at [Inity](https://www.inity.be) in Belgium. I build and teach cloud-native and AI solutions on Azure, and write about what I learn along the way.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Geert%20Baeke&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20agents%20%C2%B7%20Azure%20%C2%B7%20Kubernetes&descSize=18&descAlignY=60" alt="Geert Baeke" />
 
-## What I work on
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&width=620&lines=Chief+technologist+at+Inity;Building+persistent+AI+agents;MCP+%C2%B7+Azure+%C2%B7+AKS+%C2%B7+Bicep;Writing+at+baeke.info" alt="Typing intro" />
 
-- 🤖 **AI agents & MCP**: multi-agent setups, OpenAI Realtime/Responses APIs, MCP servers with on-behalf-of auth
+<br>
+
+[![Blog](https://img.shields.io/badge/Blog-baeke.info-0A66C2?style=for-the-badge&logo=wordpress&logoColor=white)](https://baeke.info)
+[![Inity](https://img.shields.io/badge/Inity-independent_Azure_%26_AI_practice-111827?style=for-the-badge)](https://www.inity.be)
+![Location](https://img.shields.io/badge/Belgium-🇧🇪-000000?style=for-the-badge)
+
+</div>
+
+## 👋 About
+
+I'm a chief technologist at [Inity](https://www.inity.be) in Belgium. I build and teach cloud-native and AI solutions on Azure, and write about what I learn along the way.
+
+- 🤖 **AI agents & MCP**: persistent agents, multi-agent setups, OpenAI Realtime/Responses APIs, MCP servers
 - ☁️ **Azure**: AKS, Container Apps, Bicep, Functions
 - 🐍 **Python**, containers and DevOps
 
-## Recent AI projects
+<div align="center">
 
-| Project | What it is |
-| --- | --- |
-| [dottie](https://github.com/gbaeke/dottie) | Persistent personal agents that sleep until needed: Deep Agents, PostgreSQL wiki memory, Azure Container Apps Sandboxes |
-| [decision-classify](https://github.com/gbaeke/decision-classify) | Neon batch document classifier, plus an arcade where a model, an algorithm or you fly the ship |
-| [kagent-substrate](https://github.com/gbaeke/kagent-substrate) | Local PoC: kagent 1.0 on Agent Substrate in kind, with in-cluster Ollama |
-| [model-router](https://github.com/gbaeke/model-router) | Local LLM router: classifies prompt complexity on-device and routes to a cheap or strong model via agentgateway |
-| [neurosymbolic-hr-demo](https://github.com/gbaeke/neurosymbolic-hr-demo) | An LLM extracts facts from leave requests, clingo (ASP) applies the HR policy |
-| [mcp-events](https://github.com/gbaeke/mcp-events) | Exploration of the draft MCP Events spec with a FastMCP server |
-| [pydantic-sre](https://github.com/gbaeke/pydantic-sre) | Read-only Azure SRE investigator built on Pydantic AI Harness |
-| [realtime-webrtc](https://github.com/gbaeke/realtime-webrtc) | OpenAI realtime audio with WebRTC |
+<img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,python,fastapi,postgres,react,ts,linux&perline=9" alt="Tech stack" />
 
-## Latest from my blog
+</div>
+
+## 🚀 Recent AI projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [🌙 dottie](https://github.com/gbaeke/dottie)
+Persistent personal agents that sleep until needed: Deep Agents, PostgreSQL wiki memory, Azure Container Apps Sandboxes.
+
+</td>
+<td width="50%" valign="top">
+
+### [🕹️ decision-classify](https://github.com/gbaeke/decision-classify)
+Neon batch document classifier, plus an arcade where a model, an algorithm or you fly the ship.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### [☸️ kagent-substrate](https://github.com/gbaeke/kagent-substrate)
+Local PoC: kagent 1.0 on Agent Substrate in kind, with in-cluster Ollama.
+
+</td>
+<td valign="top">
+
+### [🔀 model-router](https://github.com/gbaeke/model-router)
+Classifies prompt complexity on-device and routes to a cheap or strong model via agentgateway.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### [🧠 neurosymbolic-hr-demo](https://github.com/gbaeke/neurosymbolic-hr-demo)
+An LLM extracts facts from leave requests, clingo (ASP) applies the HR policy.
+
+</td>
+<td valign="top">
+
+### [📡 mcp-events](https://github.com/gbaeke/mcp-events)
+Exploring the draft MCP Events spec with a FastMCP server ChatGPT can subscribe to.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### [🛟 pydantic-sre](https://github.com/gbaeke/pydantic-sre)
+Read-only Azure SRE investigator built on Pydantic AI Harness.
+
+</td>
+<td valign="top">
+
+### [🎙️ realtime-webrtc](https://github.com/gbaeke/realtime-webrtc) ⭐ 50
+OpenAI realtime audio with WebRTC.
+
+</td>
+</tr>
+</table>
+
+## ✍️ Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
 - [Building Event-Driven Agents with Azure Functions](https://baeke.info/2026/08/17/building-event-driven-agents-with-azure-functions/)
@@ -31,6 +97,8 @@ Chief technologist at [Inity](https://www.inity.be) in Belgium. I build and teac
 - [Durable Execution for AI workflows](https://baeke.info/2025/08/15/durable-execution-for-an-ai-based-newsletter-generator/)
 <!-- BLOG-POST-LIST:END -->
 
-## Find me
+<div align="center">
 
-[![Blog](https://img.shields.io/badge/Blog-baeke.info-blue?style=flat)](https://baeke.info)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="" />
+
+</div>

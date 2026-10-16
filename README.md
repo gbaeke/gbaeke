@@ -6,18 +6,20 @@ Chief technologist at [Inity](https://www.inity.be) in Belgium. I build and teac
 
 - 🤖 **AI agents & MCP**: multi-agent setups, OpenAI Realtime/Responses APIs, MCP servers with on-behalf-of auth
 - ☁️ **Azure**: AKS, Container Apps, Bicep, Functions
-- 🐹 **Go & Python**, containers and DevOps
+- 🐍 **Python**, containers and DevOps
 
-## Popular projects
+## Recent AI projects
 
 | Project | What it is |
 | --- | --- |
+| [dottie](https://github.com/gbaeke/dottie) | Persistent personal agents that sleep until needed: Deep Agents, PostgreSQL wiki memory, Azure Container Apps Sandboxes |
+| [decision-classify](https://github.com/gbaeke/decision-classify) | Neon batch document classifier, plus an arcade where a model, an algorithm or you fly the ship |
+| [kagent-substrate](https://github.com/gbaeke/kagent-substrate) | Local PoC: kagent 1.0 on Agent Substrate in kind, with in-cluster Ollama |
+| [model-router](https://github.com/gbaeke/model-router) | Local LLM router: classifies prompt complexity on-device and routes to a cheap or strong model via agentgateway |
+| [neurosymbolic-hr-demo](https://github.com/gbaeke/neurosymbolic-hr-demo) | An LLM extracts facts from leave requests, clingo (ASP) applies the HR policy |
+| [mcp-events](https://github.com/gbaeke/mcp-events) | Exploration of the draft MCP Events spec with a FastMCP server |
+| [pydantic-sre](https://github.com/gbaeke/pydantic-sre) | Read-only Azure SRE investigator built on Pydantic AI Harness |
 | [realtime-webrtc](https://github.com/gbaeke/realtime-webrtc) | OpenAI realtime audio with WebRTC |
-| [aks-bicep](https://github.com/gbaeke/aks-bicep) | AKS deployment with Bicep |
-| [go-template](https://github.com/gbaeke/go-template) | Go template for demos and training |
-| [multi_agent_aca](https://github.com/gbaeke/multi_agent_aca) | Multi-agent solution on Azure Container Apps with Google Agent2Agent |
-| [mcp-obo](https://github.com/gbaeke/mcp-obo) | On-behalf-of (OBO) flow for an MCP server |
-| [quick-guides](https://github.com/gbaeke/quick-guides) | AKS and Azure quick guides |
 
 ## Latest from my blog
 

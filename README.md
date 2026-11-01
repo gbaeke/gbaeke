@@ -90,11 +90,11 @@ OpenAI realtime audio with WebRTC.
 ## ✍️ Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding a low-cost chat assistant to my blog](https://baeke.info/2026/10/31/adding-a-low-cost-chat-assistant-to-my-blog/)
 - [Deep Agents from zero: seven small examples](https://baeke.info/2026/10/30/deep-agents-from-zero-seven-small-examples/)
 - [Agent 365: who&#39;s keeping an eye on your agents?](https://baeke.info/2026/10/29/agent-365-whos-keeping-an-eye-on-your-agents/)
 - [From WordPress.com to a static site on Azure](https://baeke.info/2026/10/28/from-wordpress-com-to-a-static-site-on-azure/)
 - [Autopilots: agents with their own mailbox, Teams account and boss](https://baeke.info/2026/10/27/autopilots-agents-with-their-own-mailbox-teams-account-and-boss/)
-- [Always-on assistants that are asleep most of the day](https://baeke.info/2026/10/27/always-on-assistants-that-are-asleep-most-of-the-day/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">

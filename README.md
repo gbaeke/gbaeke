@@ -90,11 +90,11 @@ OpenAI realtime audio with WebRTC.
 ## ✍️ Latest from my blog
 
 <!-- BLOG-POST-LIST:START -->
+- [How knowledge graphs work in Foundry IQ](https://baeke.info/2026/11/20/how-knowledge-graphs-work-in-foundry-iq/)
 - [Agents that sleep on your own Kubernetes cluster with Agent Substrate](https://baeke.info/2026/11/19/agents-that-sleep-on-your-own-kubernetes-cluster-with-agent-substrate/)
 - [Notes of the week: the harness spreads, agents after go-live and Kubernetes for agents](https://baeke.info/2026/11/16/notes-of-the-week-the-harness-spreads-agents-after-go-live-and-kubernetes-for-agents/)
 - [Agent-driven UI with A2UI 1.0](https://baeke.info/2026/11/15/agent-driven-ui-with-a2ui-1-0/)
 - [Azure Content Understanding](https://baeke.info/2026/11/10/azure-content-understanding/)
-- [agentgateway: an open source AI gateway on Kubernetes](https://baeke.info/2026/11/10/agentgateway-an-open-source-ai-gateway-on-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
